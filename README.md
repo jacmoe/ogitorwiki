@@ -1,2 +1,0 @@
-# ogitorwiki
-Docs for Ogitor
